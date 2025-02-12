@@ -1,9 +1,10 @@
-# J2ME SDK Tutorial for Linux and Intellij
+# J2ME SDK Tutorial for Intellij
 
-This is a tutorial for setting up the J2ME SDK on modern Linux distros, using a recent version of IntelliJ. You may find this guide useful if you are particpating in the [Hack Club Retrospect J2ME event](https://retrospect.hackclub.com/j2me). 
+This is a tutorial for setting up the J2ME SDK on modern Windows or Linux distros, using a recent version of IntelliJ. You may find this guide useful if you are particpating in the [Hack Club Retrospect J2ME event](https://retrospect.hackclub.com/j2me). 
 
 ![image](https://github.com/user-attachments/assets/d8616f27-f887-444f-8319-5c4899f1761e)
 
+This is the guide for Linux. For the Windows setup guide, see [`windows_setup.md`](https://github.com/ading2210/setup-j2me-sdk/blob/main/windows_setup.md).
 
 ## 1. Set up Directories
 Create a directory to put the SDK and related files. I'll use `~/j2me`.
