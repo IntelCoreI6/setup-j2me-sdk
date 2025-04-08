@@ -49,6 +49,11 @@ In `File > Project Structure > Project Settings > Project`, set the project lang
 
 ![image](https://github.com/user-attachments/assets/769aec01-5227-4c02-b086-854498c7015f)
 
+In `File > Project Structure > Project Settings > Modules > Dependencies`, set the module SDK to Sun Java(TM) Wireless Toolkit 2.5.2_01 for CLDC.
+
+![image](https://github.com/user-attachments/assets/538cba96-126d-435a-bc78-4709182e3acf)
+
+
 Add your `MainMIDlet` class.
 
 ![image](https://github.com/user-attachments/assets/e6cc2957-17ba-4e5b-8cf8-390f87aa2a47)
